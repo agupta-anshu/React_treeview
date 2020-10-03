@@ -1,0 +1,98 @@
+body{
+  background-color: #eed48e;
+}
+
+
+.Navbar{
+  background-color: #e44a4a;
+}
+
+.Home{
+  font-weight: bold;
+  background-color: #eef1c8;
+}
+
+.Refresh{
+  color: white;
+}
+
+.MainBlock{
+  margin-top:60px;
+  margin-left:10px;
+  margin-right:5px;
+}
+
+.Tree {
+  background-color: #eef1c8;
+  max-height: 85vh;
+  max-width: 65vh;
+  align-items: left;
+  justify-content: top;
+  overflow: scroll;
+  font-size: calc(8px + 2vmin);
+}
+
+.DetailBlock {
+  background-color: #eef1c8;
+  overflow: auto;
+  padding: 10px;
+  align-content: center;
+  min-height: 85vh;
+  max-height: 85vh;
+  align-items: center;
+  justify-content: top;
+  font-size: calc(8px + 2vmin);
+}
+
+.ProjectBlock {
+  background-color: #eef1c8;
+  min-height: 70vh;
+  max-height: 70vh;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(8px + 2vmin);
+}
+
+
+.PageTitle{
+  margin: auto;
+  padding: 1px;
+  color: white;
+  font-size: 1.3em;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.TreeHead{
+  color: #e44a4a;
+  padding: 2px;
+  font-size: 0.8em;
+  font-weight: bold;
+}
+
+.MainList{
+  list-style-type: none;
+  margin: 0;
+  padding: 0 0 0 10px;
+}
+
+.DetailHead{
+  color: #e44a4a;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.NoCursorType{
+  cursor: default;
+}
+
+.CursorType{
+  cursor: pointer;
+}
+
+.TreeNode{
+  display: inline-flex;
+  font-size: calc(8px + 1vmin);
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "id" : "0",
+        "deliveryUnit" : "CISRUNFS1",
+        "practiceUnit" : "CISRUN"
+    },
+
+    {
+        "id" : "1",
+        "deliveryUnit" : "CISRUNFS2",
+        "practiceUnit" : "CISRUN"
+    },
+
+    {
+        "id" : "2",
+        "deliveryUnit" : "NIAFS1",
+        "practiceUnit" : "NIA"
+    },
+
+    {
+        "id" : "3",
+        "deliveryUnit" : "NIAFS2",
+        "practiceUnit" : "NIA"
+    },
+
+    {
+        "id" : "4",
+        "deliveryUnit" : "ENGSPFS1",
+        "practiceUnit" : "ENGSP"
+    },
+
+    {
+        "id" : "5",
+        "deliveryUnit" : "ENGSPFS2",
+        "practiceUnit" : "ENGSP"
+    }
+]

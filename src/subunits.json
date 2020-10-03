@@ -1,0 +1,13 @@
+[
+    {
+        "id" : "0",
+        "deliveryUnit" : "CISRUNFS1",
+        "subUnit" : "Resources"
+    },
+
+    {
+        "id" : "1",
+        "deliveryUnit" : "CISRUNFS1",
+        "subUnit" : "ClientData"
+    }
+]

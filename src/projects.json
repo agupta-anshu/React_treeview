@@ -1,0 +1,43 @@
+[
+
+    {
+        "id" : "1",
+        "account": "Sysco",
+        "team": "20",
+        "domain": "Cloud",
+        "manager": "Hitender Singh",
+        "deliveryUnit" : "CISRUNFS1",
+        "practiceUnit" : "CISRUN"
+    },
+
+    {
+        "id" : "2",
+        "account": "Citi",
+        "team": "30",
+        "domain": "Security",
+        "manager": "BS Prasad",
+        "deliveryUnit" : "CISRUNFS2",
+        "practiceUnit" : "CISRUN"
+    },
+
+    {
+        "id" : "3",
+        "account": "Adidas",
+        "team": "20",
+        "domain": "Cloud",
+        "manager": "Prashant Sharma",
+        "deliveryUnit" : null,
+        "practiceUnit" : "CISRUN"
+    },
+
+    {
+        "id" : "4",
+        "account": "Avon",
+        "team": "34",
+        "domain": "Angular",
+        "manager": "Ankush Gupta",
+        "deliveryUnit" : "ENGSPFS1",
+        "practiceUnit" : "ENGSP"
+    }
+
+]

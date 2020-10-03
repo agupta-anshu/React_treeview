@@ -1,0 +1,95 @@
+[
+    {
+    "id": 1,
+    "name": "Projects",
+    "project": null,
+    "children": [
+      {
+        "id": 2,
+        "name": "CISRUN",
+        "project": null,
+        "children": [
+          {
+            "id": 3,
+            "name": "CISRUNFS1",
+            "project": null,
+            "children": [
+                {
+                    "id": 11,
+                    "name": "Sysco",
+                    "project": "1",
+                    "children": null
+                }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "CISRUNFS2",
+            "project": null,
+            "children": [
+                {
+                    "id": 12,
+                    "name": "Citi",
+                    "project": "2",
+                    "children": null
+                }
+            ]
+          },
+          {
+            "id": 13,
+            "name": "Adidas",
+            "project": "3",
+            "children": null
+        }
+
+        ]
+      },
+      {
+        "id": 5,
+        "name": "ENGSP",
+        "project": null,
+        "children": [
+          {
+            "id": 6,
+            "name": "ENGSPFS1",
+            "project": null,
+            "children": null
+          },
+          {
+            "id": 7,
+            "name": "ENGSPFS2",
+            "project": null,
+            "children": [
+              {
+                  "id": 14,
+                  "name": "Citi",
+                  "project": null,
+                  "children": null
+              }
+          ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "NIA",
+        "project": null,
+        "children": [
+          {
+            "id": 9,
+            "name": "NIAFS1",
+            "project": null,
+            "children": null
+          },
+          {
+            "id": 10,
+            "name": "NIAFS2",
+            "project": null,
+            "children": null
+            }
+        ]
+      }
+    ]
+  }
+
+]

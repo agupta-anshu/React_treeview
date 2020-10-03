@@ -1,0 +1,17 @@
+
+[
+    {
+        "id" : "0",
+        "practiceUnit" : "CISRUN"
+    },
+
+    {
+        "id" : "1",
+        "practiceUnit" : "NIA"
+    },
+
+    {
+        "id" : "2",
+        "practiceUnit" : "ENGSP"
+    }
+]
